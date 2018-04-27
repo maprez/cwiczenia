@@ -1,1 +1,1 @@
-print('To jest plik .py') 
+#To jest plik .py
