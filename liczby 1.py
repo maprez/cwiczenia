@@ -1,3 +1,6 @@
+#liczby pierwsze - zadanie domowe
+
+
 def gen(x):
     pierwsze=[]
     z = 2

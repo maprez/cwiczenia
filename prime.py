@@ -1,5 +1,5 @@
 dolnaGranica = 10
-gornaGranica = 100
+gornaGranica = 300
 #dolnaGranica = int(input("Dolny zakres to: "))
 #gornaGranica = int(input("Gorny zakres to: "))
 
@@ -13,10 +13,10 @@ def liczbyPierwsze (dolnaGranica, gornaGranica):
                    break
            else:
                print(liczba)
-#naprawić błędy, bo kuźde nie działa tak, by można było wpisywać samemu przedział
+
 def main():
-   dGranica = int(input('Podaj dolna granice'))
-   gGranica = int(input('Podaj gorna granice'))
+   dGranica = int(input('Podaj dolna granice '))
+   gGranica = int(input('Podaj gorna granice '))
 
    print(liczbyPierwsze(dGranica, gGranica))
 

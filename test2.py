@@ -7,9 +7,9 @@ def happyBirthday (nazwaUsera):
 
 
 def main():
-    #pytanie o nazwê usera
+    #pytanie o nazwe usera
     nazwaUsera = input ('Podaj imie: ')
-    #wywo³anie funkcji, by siê wydrukowa³¹
+    #wywolanie funkcji, by sie wydrukowalo
     happyBirthday(nazwaUsera)
   
 

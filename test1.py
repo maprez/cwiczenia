@@ -1,9 +1,9 @@
-#tworzymy funkcjê potêgi 3
-#nastêpnie robimy mno¿enie
-#printem nakazujemy wyliczyæ dwa do potêgi trzeciej
+#tworzymy funkcje potegi 3
+#nastepnie robimy mnozenie
+#printem nakazujemy wyliczyc dwa do potegi trzeciej
 #ctrl s zapisanie, f5 debugowanie "uruchamianie"
-#return "zwraca" liczbê, daje wynik
-#dodanie main nie zmienia wyniku po uruchomieniu - wywo³uje wydrukowanie tego, co by³o zdefiniowane
+#return "zwraca" liczbe, daje wynik
+#dodanie main nie zmienia wyniku po uruchomieniu - wywoluje wydrukowanie tego, co bylo zdefiniowane
 
 def potega3(x):
     return x*x*x
